@@ -1,6 +1,17 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Monday",
+    "text": "Walk the dogs",
+    "id": "a2e74a29-2673-4b21-ae7d-6b98969f1eca"
+  },
+  {
+    "title": "Tuesday",
+    "text": "Chat with mom\nVisit grandpa",
+    "id": "058cd27f-72ad-4f4e-b0da-a5a93428fd54"
+  },
+  {
+    "title": "Wednesday",
+    "text": "Grocery shopping",
+    "id": "25eeddb3-3f74-4d03-8df5-21d4afc8b79a"
+  }
 ]
